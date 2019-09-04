@@ -1,0 +1,5 @@
+1. creat database
+2.creat file upload from
+3.styling the from
+4.get submitted data and insert in database
+5.display image from database
